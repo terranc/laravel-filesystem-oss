@@ -1,5 +1,5 @@
 {
-    "name": "iidestiny/laravel-filesystem-oss",
+    "name": "terranc/laravel-filesystem-oss",
     "description": "Oss storage filesystem for Laravel.",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {
         "php": "^8.0.2",
         "iidestiny/flysystem-oss": "^4.1",
-        "laravel/framework": "^9.0"
+        "laravel/framework": "^9.0||^10"
     },
     "autoload": {
         "psr-4": {
